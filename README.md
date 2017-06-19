@@ -9,7 +9,7 @@ Hello dear Funding Circle people. This is my take on your ruby excercise.
 * Run `bundle`
 * Run `gem install prime_number-0.1.0.gem`
 * Open `irb` console
-* Write `PrimeNumber.multiplication_table(5)
+* Write `PrimeNumber.multiplication_table(5)`
 
 ## Testing
 
